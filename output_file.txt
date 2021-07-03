@@ -1,0 +1,822 @@
+{
+    "https://www.tide-forecast.com/locations/Half-Moon-Bay-California/tides/latest": [
+        {
+            "Day": "03 July 2021",
+            "Low Tide Height": "1.84 ft (0.56 m)",
+            "Low Tide Time": "12:21 PM",
+            "Sunrise": "5:53am",
+            "Sunset": "8:34pm"
+        },
+        {
+            "Day": "04 July 2021",
+            "Low Tide Height": "2.29 ft (0.7 m)",
+            "Low Tide Time": "1:12 PM",
+            "Sunrise": "5:54AM",
+            "Sunset": "8:34PM"
+        },
+        {
+            "Day": "05 July 2021",
+            "Low Tide Height": "2.65 ft (0.81 m)",
+            "Low Tide Time": "2:02 PM",
+            "Sunrise": "5:54AM",
+            "Sunset": "8:34PM"
+        },
+        {
+            "Day": "06 July 2021",
+            "Low Tide Height": "2.9 ft (0.88 m)",
+            "Low Tide Time": "2:49 PM",
+            "Sunrise": "5:55AM",
+            "Sunset": "8:34PM"
+        },
+        {
+            "Day": "07 July 2021",
+            "Low Tide Height": "3.07 ft (0.94 m)",
+            "Low Tide Time": "3:33 PM",
+            "Sunrise": "5:55AM",
+            "Sunset": "8:33PM"
+        },
+        {
+            "Day": "08 July 2021",
+            "Low Tide Height": "3.16 ft (0.96 m)",
+            "Low Tide Time": "4:15 PM",
+            "Sunrise": "5:56AM",
+            "Sunset": "8:33PM"
+        },
+        {
+            "Day": "09 July 2021",
+            "Low Tide Height": "3.2 ft (0.98 m)",
+            "Low Tide Time": "4:54 PM",
+            "Sunrise": "5:57AM",
+            "Sunset": "8:33PM"
+        },
+        {
+            "Day": "10 July 2021",
+            "Low Tide Height": "3.2 ft (0.98 m)",
+            "Low Tide Time": "5:33 PM",
+            "Sunrise": "5:57AM",
+            "Sunset": "8:32PM"
+        },
+        {
+            "Day": "11 July 2021",
+            "Low Tide Height": "3.16 ft (0.96 m)",
+            "Low Tide Time": "6:13 PM",
+            "Sunrise": "5:58AM",
+            "Sunset": "8:32PM"
+        },
+        {
+            "Day": "12 July 2021",
+            "Low Tide Height": "3.07 ft (0.94 m)",
+            "Low Tide Time": "6:59 PM",
+            "Sunrise": "5:59AM",
+            "Sunset": "8:32PM"
+        },
+        {
+            "Day": "13 July 2021",
+            "Low Tide Height": "2.91 ft (0.89 m)",
+            "Low Tide Time": "7:50 PM",
+            "Sunrise": "5:59AM",
+            "Sunset": "8:31PM"
+        },
+        {
+            "Day": "14 July 2021",
+            "Low Tide Height": "2.66 ft (0.81 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:00AM",
+            "Sunset": "8:31PM"
+        },
+        {
+            "Day": "15 July 2021",
+            "Low Tide Height": "2.26 ft (0.69 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:01AM",
+            "Sunset": "8:30PM"
+        },
+        {
+            "Day": "16 July 2021",
+            "Low Tide Height": "1.71 ft (0.52 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:01AM",
+            "Sunset": "8:29PM"
+        },
+        {
+            "Day": "17 July 2021",
+            "Low Tide Height": "1.29 ft (0.39 m)",
+            "Low Tide Time": "10:38 AM",
+            "Sunrise": "6:02AM",
+            "Sunset": "8:29PM"
+        },
+        {
+            "Day": "18 July 2021",
+            "Low Tide Height": "1.88 ft (0.57 m)",
+            "Low Tide Time": "11:34 AM",
+            "Sunrise": "6:03AM",
+            "Sunset": "8:28PM"
+        },
+        {
+            "Day": "19 July 2021",
+            "Low Tide Height": "2.37 ft (0.72 m)",
+            "Low Tide Time": "12:36 PM",
+            "Sunrise": "6:04AM",
+            "Sunset": "8:28PM"
+        },
+        {
+            "Day": "20 July 2021",
+            "Low Tide Height": "2.7 ft (0.82 m)",
+            "Low Tide Time": "1:39 PM",
+            "Sunrise": "6:04AM",
+            "Sunset": "8:27PM"
+        },
+        {
+            "Day": "21 July 2021",
+            "Low Tide Height": "2.87 ft (0.87 m)",
+            "Low Tide Time": "2:40 PM",
+            "Sunrise": "6:05AM",
+            "Sunset": "8:26PM"
+        },
+        {
+            "Day": "22 July 2021",
+            "Low Tide Height": "2.9 ft (0.88 m)",
+            "Low Tide Time": "3:38 PM",
+            "Sunrise": "6:06AM",
+            "Sunset": "8:26PM"
+        },
+        {
+            "Day": "23 July 2021",
+            "Low Tide Height": "2.83 ft (0.86 m)",
+            "Low Tide Time": "4:33 PM",
+            "Sunrise": "6:07AM",
+            "Sunset": "8:25PM"
+        },
+        {
+            "Day": "24 July 2021",
+            "Low Tide Height": "2.73 ft (0.83 m)",
+            "Low Tide Time": "5:26 PM",
+            "Sunrise": "6:07AM",
+            "Sunset": "8:24PM"
+        },
+        {
+            "Day": "25 July 2021",
+            "Low Tide Height": "2.61 ft (0.8 m)",
+            "Low Tide Time": "6:19 PM",
+            "Sunrise": "6:08AM",
+            "Sunset": "8:23PM"
+        },
+        {
+            "Day": "26 July 2021",
+            "Low Tide Height": "2.5 ft (0.76 m)",
+            "Low Tide Time": "7:12 PM",
+            "Sunrise": "6:09AM",
+            "Sunset": "8:22PM"
+        },
+        {
+            "Day": "27 July 2021",
+            "Low Tide Height": "2.38 ft (0.73 m)",
+            "Low Tide Time": "8:09 PM",
+            "Sunrise": "6:10AM",
+            "Sunset": "8:22PM"
+        },
+        {
+            "Day": "28 July 2021",
+            "Low Tide Height": "2.22 ft (0.68 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:11AM",
+            "Sunset": "8:21PM"
+        },
+        {
+            "Day": "29 July 2021",
+            "Low Tide Height": "2.01 ft (0.61 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:11AM",
+            "Sunset": "8:20PM"
+        },
+        {
+            "Day": "30 July 2021",
+            "Low Tide Height": "1.72 ft (0.52 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:12AM",
+            "Sunset": "8:19PM"
+        },
+        {
+            "Day": "31 July 2021",
+            "Low Tide Height": "2.07 ft (0.63 m)",
+            "Low Tide Time": "10:40 AM",
+            "Sunrise": "6:13AM",
+            "Sunset": "8:18PM"
+        }
+    ],
+    "https://www.tide-forecast.com/locations/Huntington-Beach/tides/latest": [
+        {
+            "Day": "03 July 2021",
+            "Low Tide Height": "3.05 ft (0.93 m)",
+            "Low Tide Time": "11:07 AM",
+            "Sunrise": "5:46am",
+            "Sunset": "8:06pm"
+        },
+        {
+            "Day": "04 July 2021",
+            "Low Tide Height": "3.35 ft (1.02 m)",
+            "Low Tide Time": "11:52 AM",
+            "Sunrise": "5:46AM",
+            "Sunset": "8:06PM"
+        },
+        {
+            "Day": "05 July 2021",
+            "Low Tide Height": "3.54 ft (1.08 m)",
+            "Low Tide Time": "12:35 PM",
+            "Sunrise": "5:47AM",
+            "Sunset": "8:06PM"
+        },
+        {
+            "Day": "06 July 2021",
+            "Low Tide Height": "3.64 ft (1.11 m)",
+            "Low Tide Time": "1:15 PM",
+            "Sunrise": "5:47AM",
+            "Sunset": "8:06PM"
+        },
+        {
+            "Day": "07 July 2021",
+            "Low Tide Height": "3.71 ft (1.13 m)",
+            "Low Tide Time": "1:53 PM",
+            "Sunrise": "5:48AM",
+            "Sunset": "8:05PM"
+        },
+        {
+            "Day": "08 July 2021",
+            "Low Tide Height": "3.71 ft (1.13 m)",
+            "Low Tide Time": "2:29 PM",
+            "Sunrise": "5:48AM",
+            "Sunset": "8:05PM"
+        },
+        {
+            "Day": "09 July 2021",
+            "Low Tide Height": "3.71 ft (1.13 m)",
+            "Low Tide Time": "3:05 PM",
+            "Sunrise": "5:49AM",
+            "Sunset": "8:05PM"
+        },
+        {
+            "Day": "10 July 2021",
+            "Low Tide Height": "3.71 ft (1.13 m)",
+            "Low Tide Time": "3:40 PM",
+            "Sunrise": "5:49AM",
+            "Sunset": "8:05PM"
+        },
+        {
+            "Day": "11 July 2021",
+            "Low Tide Height": "3.71 ft (1.13 m)",
+            "Low Tide Time": "4:18 PM",
+            "Sunrise": "5:50AM",
+            "Sunset": "8:04PM"
+        },
+        {
+            "Day": "12 July 2021",
+            "Low Tide Height": "3.74 ft (1.14 m)",
+            "Low Tide Time": "5:00 PM",
+            "Sunrise": "5:50AM",
+            "Sunset": "8:04PM"
+        },
+        {
+            "Day": "13 July 2021",
+            "Low Tide Height": "3.77 ft (1.15 m)",
+            "Low Tide Time": "5:51 PM",
+            "Sunrise": "5:51AM",
+            "Sunset": "8:03PM"
+        },
+        {
+            "Day": "14 July 2021",
+            "Low Tide Height": "3.77 ft (1.15 m)",
+            "Low Tide Time": "6:54 PM",
+            "Sunrise": "5:52AM",
+            "Sunset": "8:03PM"
+        },
+        {
+            "Day": "15 July 2021",
+            "Low Tide Height": "3.64 ft (1.11 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:52AM",
+            "Sunset": "8:03PM"
+        },
+        {
+            "Day": "16 July 2021",
+            "Low Tide Height": "3.25 ft (0.99 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:53AM",
+            "Sunset": "8:02PM"
+        },
+        {
+            "Day": "17 July 2021",
+            "Low Tide Height": "2.59 ft (0.79 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:53AM",
+            "Sunset": "8:02PM"
+        },
+        {
+            "Day": "18 July 2021",
+            "Low Tide Height": "2.95 ft (0.9 m)",
+            "Low Tide Time": "10:07 AM",
+            "Sunrise": "5:54AM",
+            "Sunset": "8:01PM"
+        },
+        {
+            "Day": "19 July 2021",
+            "Low Tide Height": "3.28 ft (1.0 m)",
+            "Low Tide Time": "11:11 AM",
+            "Sunrise": "5:55AM",
+            "Sunset": "8:01PM"
+        },
+        {
+            "Day": "20 July 2021",
+            "Low Tide Height": "3.45 ft (1.05 m)",
+            "Low Tide Time": "12:16 PM",
+            "Sunrise": "5:55AM",
+            "Sunset": "8:00PM"
+        },
+        {
+            "Day": "21 July 2021",
+            "Low Tide Height": "3.48 ft (1.06 m)",
+            "Low Tide Time": "1:15 PM",
+            "Sunrise": "5:56AM",
+            "Sunset": "8:00PM"
+        },
+        {
+            "Day": "22 July 2021",
+            "Low Tide Height": "3.41 ft (1.04 m)",
+            "Low Tide Time": "2:10 PM",
+            "Sunrise": "5:57AM",
+            "Sunset": "7:59PM"
+        },
+        {
+            "Day": "23 July 2021",
+            "Low Tide Height": "3.31 ft (1.01 m)",
+            "Low Tide Time": "3:01 PM",
+            "Sunrise": "5:57AM",
+            "Sunset": "7:58PM"
+        },
+        {
+            "Day": "24 July 2021",
+            "Low Tide Height": "3.22 ft (0.98 m)",
+            "Low Tide Time": "3:50 PM",
+            "Sunrise": "5:58AM",
+            "Sunset": "7:58PM"
+        },
+        {
+            "Day": "25 July 2021",
+            "Low Tide Height": "3.22 ft (0.98 m)",
+            "Low Tide Time": "4:39 PM",
+            "Sunrise": "5:59AM",
+            "Sunset": "7:57PM"
+        },
+        {
+            "Day": "26 July 2021",
+            "Low Tide Height": "3.25 ft (0.99 m)",
+            "Low Tide Time": "5:29 PM",
+            "Sunrise": "5:59AM",
+            "Sunset": "7:56PM"
+        },
+        {
+            "Day": "27 July 2021",
+            "Low Tide Height": "3.35 ft (1.02 m)",
+            "Low Tide Time": "6:24 PM",
+            "Sunrise": "6:00AM",
+            "Sunset": "7:56PM"
+        },
+        {
+            "Day": "28 July 2021",
+            "Low Tide Height": "3.41 ft (1.04 m)",
+            "Low Tide Time": "7:27 PM",
+            "Sunrise": "6:01AM",
+            "Sunset": "7:55PM"
+        },
+        {
+            "Day": "29 July 2021",
+            "Low Tide Height": "3.38 ft (1.03 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:02AM",
+            "Sunset": "7:54PM"
+        },
+        {
+            "Day": "30 July 2021",
+            "Low Tide Height": "3.18 ft (0.97 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:02AM",
+            "Sunset": "7:53PM"
+        },
+        {
+            "Day": "31 July 2021",
+            "Low Tide Height": "2.79 ft (0.85 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:03AM",
+            "Sunset": "7:52PM"
+        }
+    ],
+    "https://www.tide-forecast.com/locations/Providence-Rhode-Island/tides/latest": [
+        {
+            "Day": "03 July 2021",
+            "Low Tide Height": "1.42 ft (0.43 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:15am",
+            "Sunset": "8:23pm"
+        },
+        {
+            "Day": "04 July 2021",
+            "Low Tide Height": "1.24 ft (0.38 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:16AM",
+            "Sunset": "8:23PM"
+        },
+        {
+            "Day": "05 July 2021",
+            "Low Tide Height": "1.06 ft (0.32 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:16AM",
+            "Sunset": "8:23PM"
+        },
+        {
+            "Day": "06 July 2021",
+            "Low Tide Height": "0.87 ft (0.27 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:17AM",
+            "Sunset": "8:23PM"
+        },
+        {
+            "Day": "07 July 2021",
+            "Low Tide Height": "0.59 ft (0.18 m)",
+            "Low Tide Time": "11:53 AM",
+            "Sunrise": "5:18AM",
+            "Sunset": "8:22PM"
+        },
+        {
+            "Day": "08 July 2021",
+            "Low Tide Height": "0.51 ft (0.16 m)",
+            "Low Tide Time": "12:38 PM",
+            "Sunrise": "5:18AM",
+            "Sunset": "8:22PM"
+        },
+        {
+            "Day": "09 July 2021",
+            "Low Tide Height": "0.45 ft (0.14 m)",
+            "Low Tide Time": "1:25 PM",
+            "Sunrise": "5:19AM",
+            "Sunset": "8:21PM"
+        },
+        {
+            "Day": "10 July 2021",
+            "Low Tide Height": "0.39 ft (0.12 m)",
+            "Low Tide Time": "2:12 PM",
+            "Sunrise": "5:20AM",
+            "Sunset": "8:21PM"
+        },
+        {
+            "Day": "11 July 2021",
+            "Low Tide Height": "0.33 ft (0.1 m)",
+            "Low Tide Time": "2:59 PM",
+            "Sunrise": "5:21AM",
+            "Sunset": "8:20PM"
+        },
+        {
+            "Day": "12 July 2021",
+            "Low Tide Height": "0.29 ft (0.09 m)",
+            "Low Tide Time": "3:45 PM",
+            "Sunrise": "5:21AM",
+            "Sunset": "8:20PM"
+        },
+        {
+            "Day": "13 July 2021",
+            "Low Tide Height": "0.28 ft (0.09 m)",
+            "Low Tide Time": "4:31 PM",
+            "Sunrise": "5:22AM",
+            "Sunset": "8:19PM"
+        },
+        {
+            "Day": "14 July 2021",
+            "Low Tide Height": "0.32 ft (0.1 m)",
+            "Low Tide Time": "5:18 PM",
+            "Sunrise": "5:23AM",
+            "Sunset": "8:19PM"
+        },
+        {
+            "Day": "15 July 2021",
+            "Low Tide Height": "0.4 ft (0.12 m)",
+            "Low Tide Time": "6:08 PM",
+            "Sunrise": "5:24AM",
+            "Sunset": "8:18PM"
+        },
+        {
+            "Day": "16 July 2021",
+            "Low Tide Height": "0.51 ft (0.16 m)",
+            "Low Tide Time": "7:05 PM",
+            "Sunrise": "5:25AM",
+            "Sunset": "8:18PM"
+        },
+        {
+            "Day": "17 July 2021",
+            "Low Tide Height": "0.58 ft (0.18 m)",
+            "Low Tide Time": "8:08 PM",
+            "Sunrise": "5:25AM",
+            "Sunset": "8:17PM"
+        },
+        {
+            "Day": "18 July 2021",
+            "Low Tide Height": "0.53 ft (0.16 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:26AM",
+            "Sunset": "8:16PM"
+        },
+        {
+            "Day": "19 July 2021",
+            "Low Tide Height": "0.39 ft (0.12 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:27AM",
+            "Sunset": "8:15PM"
+        },
+        {
+            "Day": "20 July 2021",
+            "Low Tide Height": "0.21 ft (0.06 m)",
+            "Low Tide Time": null,
+            "Sunrise": "5:28AM",
+            "Sunset": "8:15PM"
+        },
+        {
+            "Day": "21 July 2021",
+            "Low Tide Height": "-0.06 ft (-0.02 m)",
+            "Low Tide Time": "11:26 AM",
+            "Sunrise": "5:29AM",
+            "Sunset": "8:14PM"
+        },
+        {
+            "Day": "22 July 2021",
+            "Low Tide Height": "-0.13 ft (-0.04 m)",
+            "Low Tide Time": "12:23 PM",
+            "Sunrise": "5:30AM",
+            "Sunset": "8:13PM"
+        },
+        {
+            "Day": "23 July 2021",
+            "Low Tide Height": "-0.17 ft (-0.05 m)",
+            "Low Tide Time": "1:20 PM",
+            "Sunrise": "5:31AM",
+            "Sunset": "8:12PM"
+        },
+        {
+            "Day": "24 July 2021",
+            "Low Tide Height": "-0.15 ft (-0.05 m)",
+            "Low Tide Time": "2:17 PM",
+            "Sunrise": "5:32AM",
+            "Sunset": "8:11PM"
+        },
+        {
+            "Day": "25 July 2021",
+            "Low Tide Height": "-0.09 ft (-0.03 m)",
+            "Low Tide Time": "3:10 PM",
+            "Sunrise": "5:33AM",
+            "Sunset": "8:10PM"
+        },
+        {
+            "Day": "26 July 2021",
+            "Low Tide Height": "0.05 ft (0.02 m)",
+            "Low Tide Time": "3:57 PM",
+            "Sunrise": "5:33AM",
+            "Sunset": "8:09PM"
+        },
+        {
+            "Day": "27 July 2021",
+            "Low Tide Height": "0.27 ft (0.08 m)",
+            "Low Tide Time": "4:40 PM",
+            "Sunrise": "5:34AM",
+            "Sunset": "8:08PM"
+        },
+        {
+            "Day": "28 July 2021",
+            "Low Tide Height": "0.54 ft (0.16 m)",
+            "Low Tide Time": "5:21 PM",
+            "Sunrise": "5:35AM",
+            "Sunset": "8:07PM"
+        },
+        {
+            "Day": "29 July 2021",
+            "Low Tide Height": "0.83 ft (0.25 m)",
+            "Low Tide Time": "6:03 PM",
+            "Sunrise": "5:36AM",
+            "Sunset": "8:06PM"
+        },
+        {
+            "Day": "30 July 2021",
+            "Low Tide Height": "1.1 ft (0.34 m)",
+            "Low Tide Time": "6:47 PM",
+            "Sunrise": "5:37AM",
+            "Sunset": "8:05PM"
+        },
+        {
+            "Day": "31 July 2021",
+            "Low Tide Height": "1.31 ft (0.4 m)",
+            "Low Tide Time": "7:37 PM",
+            "Sunrise": "5:38AM",
+            "Sunset": "8:04PM"
+        }
+    ],
+    "https://www.tide-forecast.com/locations/Wrightsville-Beach-North-Carolina/tides/latest": [
+        {
+            "Day": "03 July 2021",
+            "Low Tide Height": "0.71 ft (0.22 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:04am",
+            "Sunset": "8:26pm"
+        },
+        {
+            "Day": "04 July 2021",
+            "Low Tide Height": "0.68 ft (0.21 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:04AM",
+            "Sunset": "8:26PM"
+        },
+        {
+            "Day": "05 July 2021",
+            "Low Tide Height": "0.63 ft (0.19 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:05AM",
+            "Sunset": "8:26PM"
+        },
+        {
+            "Day": "06 July 2021",
+            "Low Tide Height": "0.16 ft (0.05 m)",
+            "Low Tide Time": "11:22 AM",
+            "Sunrise": "6:05AM",
+            "Sunset": "8:26PM"
+        },
+        {
+            "Day": "07 July 2021",
+            "Low Tide Height": "0.11 ft (0.03 m)",
+            "Low Tide Time": "12:05 PM",
+            "Sunrise": "6:06AM",
+            "Sunset": "8:26PM"
+        },
+        {
+            "Day": "08 July 2021",
+            "Low Tide Height": "0.07 ft (0.02 m)",
+            "Low Tide Time": "12:50 PM",
+            "Sunrise": "6:06AM",
+            "Sunset": "8:25PM"
+        },
+        {
+            "Day": "09 July 2021",
+            "Low Tide Height": "0.02 ft (0.01 m)",
+            "Low Tide Time": "1:35 PM",
+            "Sunrise": "6:07AM",
+            "Sunset": "8:25PM"
+        },
+        {
+            "Day": "10 July 2021",
+            "Low Tide Height": "-0.01 ft (-0.0 m)",
+            "Low Tide Time": "2:18 PM",
+            "Sunrise": "6:07AM",
+            "Sunset": "8:25PM"
+        },
+        {
+            "Day": "11 July 2021",
+            "Low Tide Height": "-0.02 ft (-0.01 m)",
+            "Low Tide Time": "3:00 PM",
+            "Sunrise": "6:08AM",
+            "Sunset": "8:24PM"
+        },
+        {
+            "Day": "12 July 2021",
+            "Low Tide Height": "0.0 ft (0.0 m)",
+            "Low Tide Time": "3:41 PM",
+            "Sunrise": "6:08AM",
+            "Sunset": "8:24PM"
+        },
+        {
+            "Day": "13 July 2021",
+            "Low Tide Height": "0.07 ft (0.02 m)",
+            "Low Tide Time": "4:23 PM",
+            "Sunrise": "6:09AM",
+            "Sunset": "8:24PM"
+        },
+        {
+            "Day": "14 July 2021",
+            "Low Tide Height": "0.19 ft (0.06 m)",
+            "Low Tide Time": "5:09 PM",
+            "Sunrise": "6:10AM",
+            "Sunset": "8:23PM"
+        },
+        {
+            "Day": "15 July 2021",
+            "Low Tide Height": "0.32 ft (0.1 m)",
+            "Low Tide Time": "6:05 PM",
+            "Sunrise": "6:10AM",
+            "Sunset": "8:23PM"
+        },
+        {
+            "Day": "16 July 2021",
+            "Low Tide Height": "0.42 ft (0.13 m)",
+            "Low Tide Time": "7:12 PM",
+            "Sunrise": "6:11AM",
+            "Sunset": "8:22PM"
+        },
+        {
+            "Day": "17 July 2021",
+            "Low Tide Height": "0.41 ft (0.12 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:11AM",
+            "Sunset": "8:22PM"
+        },
+        {
+            "Day": "18 July 2021",
+            "Low Tide Height": "0.3 ft (0.09 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:12AM",
+            "Sunset": "8:21PM"
+        },
+        {
+            "Day": "19 July 2021",
+            "Low Tide Height": "0.16 ft (0.05 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:13AM",
+            "Sunset": "8:21PM"
+        },
+        {
+            "Day": "20 July 2021",
+            "Low Tide Height": "0.01 ft (0.0 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:13AM",
+            "Sunset": "8:20PM"
+        },
+        {
+            "Day": "21 July 2021",
+            "Low Tide Height": "-0.4 ft (-0.12 m)",
+            "Low Tide Time": "11:29 AM",
+            "Sunrise": "6:14AM",
+            "Sunset": "8:20PM"
+        },
+        {
+            "Day": "22 July 2021",
+            "Low Tide Height": "-0.47 ft (-0.14 m)",
+            "Low Tide Time": "12:26 PM",
+            "Sunrise": "6:15AM",
+            "Sunset": "8:19PM"
+        },
+        {
+            "Day": "23 July 2021",
+            "Low Tide Height": "-0.5 ft (-0.15 m)",
+            "Low Tide Time": "1:24 PM",
+            "Sunrise": "6:15AM",
+            "Sunset": "8:18PM"
+        },
+        {
+            "Day": "24 July 2021",
+            "Low Tide Height": "-0.49 ft (-0.15 m)",
+            "Low Tide Time": "2:19 PM",
+            "Sunrise": "6:16AM",
+            "Sunset": "8:18PM"
+        },
+        {
+            "Day": "25 July 2021",
+            "Low Tide Height": "-0.41 ft (-0.12 m)",
+            "Low Tide Time": "3:10 PM",
+            "Sunrise": "6:17AM",
+            "Sunset": "8:17PM"
+        },
+        {
+            "Day": "26 July 2021",
+            "Low Tide Height": "-0.23 ft (-0.07 m)",
+            "Low Tide Time": "3:58 PM",
+            "Sunrise": "6:18AM",
+            "Sunset": "8:16PM"
+        },
+        {
+            "Day": "27 July 2021",
+            "Low Tide Height": "0.03 ft (0.01 m)",
+            "Low Tide Time": "4:45 PM",
+            "Sunrise": "6:18AM",
+            "Sunset": "8:16PM"
+        },
+        {
+            "Day": "28 July 2021",
+            "Low Tide Height": "0.35 ft (0.11 m)",
+            "Low Tide Time": "5:35 PM",
+            "Sunrise": "6:19AM",
+            "Sunset": "8:15PM"
+        },
+        {
+            "Day": "29 July 2021",
+            "Low Tide Height": "0.65 ft (0.2 m)",
+            "Low Tide Time": "6:30 PM",
+            "Sunrise": "6:20AM",
+            "Sunset": "8:14PM"
+        },
+        {
+            "Day": "30 July 2021",
+            "Low Tide Height": "0.89 ft (0.27 m)",
+            "Low Tide Time": "7:34 PM",
+            "Sunrise": "6:20AM",
+            "Sunset": "8:13PM"
+        },
+        {
+            "Day": "31 July 2021",
+            "Low Tide Height": "1.0 ft (0.3 m)",
+            "Low Tide Time": null,
+            "Sunrise": "6:21AM",
+            "Sunset": "8:12PM"
+        }
+    ]
+}
