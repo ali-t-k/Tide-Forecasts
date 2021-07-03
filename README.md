@@ -1,4 +1,4 @@
-"# Tide-Forecasts" 
+## Tide-Forecasts
 
 Assignment prompt: Load the tide forecast page for each location ("Half Moon Bay, California", "Huntington Beach, California", "Providence, Rhode Island", "Wrightsville Beach, North Carolina") and extract information on low tides that occur after sunrise and before sunset. Return the time and height for each daylight low tide.
 
